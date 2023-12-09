@@ -121,10 +121,3 @@ button:hover {
     animation: fadeIn 1s forwards 4s;
 }
 
-.header-box {
-    border: 2px solid #007bff; /* Border color: Dodger Blue */
-    background-color: #5cb85c; /* Header background color: MediumSeaGreen */
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-}
